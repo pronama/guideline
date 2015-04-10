@@ -63,6 +63,7 @@ Web コミックの画像利用の場合、「池村ヒロイチ」を表示し�
 
 * [ニコニ・コモンズ](http://commons.nicovideo.jp/material/nc68382)
 * [プチコン mkII](http://smileboom.com/special/ptcm2/co_present/html_present06.php)
+* [プチコン3号 SmileBASIC](http://smileboom.com/special/ptcm3/publickey/)
 
 ## （注記）プログラミング生放送および暮井 慧のロゴの利用
 
