@@ -7,7 +7,8 @@
 利用について気になる方はお気軽にお問い合わせください。
 
 <ul style="text-indent:-1em; list-style-type:none;">
-<li style="list-style-type:none;">※ 画像は、<a href="http://pronama.azurewebsites.net/pronama/wallpapers/">壁紙</a>・<a href="http://pronama.azurewebsites.net/pronama/icon/">アイコン</a>・<a href="http://pronama.azurewebsites.net/pronama/download/">素材</a>・<a href="http://pronama.azurewebsites.net/web-comic/">Web コミック</a>などで公開している画像です。原則、3D モデル、イラストレーターが「Ixy」または「池村ヒロイチ」によるものを利用できます。</li>
+<li style="list-style-type:none;">※ 画像は、<a href="http://pronama.azurewebsites.net/pronama/wallpapers/">壁紙</a>・<a href="http://pronama.azurewebsites.net/pronama/icon/">アイコン</a>・<a href="http://pronama.azurewebsites.net/pronama/download/">素材</a>・<a href="http://pronama.azurewebsites.net/web-comic/">Web コミック</a>などで公開している画像です。作者が、Ixy・池村ヒロイチ・大川ぶくぶ・ta2nb・ささくら によるものを利用できます。その他の作者の場合も、利用に関する記載がある場合に限りその範囲内で利用できます。また、画像と同条件で 3D モデルデータも利用できます。別途、制限事項の記載がある場合、その範囲内で利用してください。
+</li>
 </ul>
 
 
@@ -52,7 +53,7 @@
 
 ## 表示義務
 
-Web コミックの画像利用の場合、「池村ヒロイチ」を表示してください（例： 「イラスト： 池村ヒロイチ」）。
+Web コミックの画像利用の場合、作者（「池村ヒロイチ」または「大川ぶくぶ」）を表示してください（例： 「イラスト： 池村ヒロイチ」）。
 
 その他の場合、著作権表示は不要です（著作権を放棄するものではありません）。表示する場合「© 2011 プログラミング生放送」または「「© 2011-2015 プログラミング生放送」」としてください。
 
