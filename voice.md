@@ -13,7 +13,7 @@
 
 同人即売会での有償頒布・同人誌専門店の委託販売、Web サイト・アプリへの広告掲載を伴う場合などにおいても、音声を利用できます。
 
-※ 「原価程度の対価・利益を得る場合」の利用は、試験的に許諾しています。最低 **2016/7/31**まで記載の条件で利用できます。「[プロ生ちゃん（CV 上坂すみれ）ボイスがさらに使いやすくなりました！](http://pronama.azurewebsites.net/pronama-chan-voice-uesaka-sumire-guideline-update )」の記事も参照の上、利用をお願いします。
+※ 「原価程度の対価・利益を得る場合」の利用は、試験的に許諾しています。最低 **2017/7/31**まで記載の条件で利用できます。「[プロ生ちゃん（CV 上坂すみれ）ボイスがさらに使いやすくなりました！](http://pronama.azurewebsites.net/pronama-chan-voice-uesaka-sumire-guideline-update )」の記事も参照の上、利用をお願いします。
 
 ### 利用の一例
 * アプリ、動画、グッズなどの制作
@@ -21,7 +21,7 @@
 * IT 勉強会など非営利イベントでの発表に使用
 
 <ul style="text-indent:-1em; list-style-type:none;">
-<li style="list-style-type:none;">※ 著作権表示は不要です（著作権を放棄するものではありません）。表記する場合「© 2016  合同会社プロ生」または「© 2016 Pronama LLC」としてください。</li>
+<li style="list-style-type:none;">※ 著作権表示は不要です（著作権を放棄するものではありません）。表記する場合「© 2017  合同会社プロ生」または「© 2017 Pronama LLC」としてください。</li>
 <li style="list-style-type:none;">※ 法人での利用、または商用利用は、お問い合わせください。</li>
 </ul>
 
