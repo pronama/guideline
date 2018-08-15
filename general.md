@@ -1,23 +1,3 @@
-このページは、キャラクターの「**二次創作活動**」と、公開している画像（※）・音声の「**二次利用**」（加工や転載）についての案内です。
-
-キャラクター「プロ生ちゃん（暮井 慧）」、「戸増千由莉」および「フィネス・ヒルヴィレッジ」を利用した作品を、使用料不要の比較的自由な条件の下で、公開できます。
-
-本キャラクターに関する著作権およびその他一切の権利は、合同会社プロ生またはスペースクラフト・エンタテインメント株式会社、およびそれらの関連企業・関係者に帰属しています。これは、著作権およびその他一切の権利を放棄・譲渡するものではありません。
-
-利用について気になる方はお気軽にお問い合わせください。
-
-<ul style="text-indent:-1em; list-style-type:none;">
-<li style="list-style-type:none;">※ 画像は、<a href="http://pronama.azurewebsites.net/pronama/wallpapers/">壁紙</a>・<a href="http://pronama.azurewebsites.net/pronama/icon/">アイコン</a>・<a href="http://pronama.azurewebsites.net/pronama/download/">素材</a>・<a href="http://pronama.azurewebsites.net/web-comic/">Web コミック</a>などで公開している画像です。作者が、Ixy・池村ヒロイチ・大川ぶくぶ・ta2nb・ささくら によるものを利用できます。その他の作者の場合も、利用に関する記載がある場合に限りその範囲内で利用できます。また、画像と同条件で 3D モデルデータも利用できます。別途、制限事項の記載がある場合、その範囲内で利用してください。
-</li>
-</ul>
-
-
-## 音声の利用ガイドライン
-
-「暮井 慧（CV: 上坂すみれ）」のボイス利用は、[音声の利用ガイドライン](http://pronama.azurewebsites.net/pronama/guideline-voice/) を参照してください。
-
-<hr />
-
 下記の内容は、音声利用を除く「二次創作活動」および画像の「二次利用」に関する案内です。
 
 
@@ -55,7 +35,7 @@
 
 Web コミックの画像利用の場合、作者（「池村ヒロイチ」または「大川ぶくぶ」）を表示してください（例： 「イラスト： 池村ヒロイチ」）。
 
-その他の場合、著作権表示は不要です（著作権を放棄するものではありません）。表示する場合「© 2017 合同会社プロ生」または「© 2017 Pronama LLC」としてください。
+その他の場合、著作権表示は不要です（著作権を放棄するものではありません）。表示する場合「© 2018 合同会社プロ生」または「© 2018 Pronama LLC」としてください。
 
 
 ## 一部プラットフォームでの利用
@@ -74,4 +54,4 @@ Web コミックの画像利用の場合、作者（「池村ヒロイチ」ま�
 
 ## 履歴
 
-* 2014/12/05 [GitHub 参照](https://github.com/pronama/guideline/commits/master/general.md)
+* [GitHub 参照](https://github.com/pronama/guideline/commits/master/general.md)
